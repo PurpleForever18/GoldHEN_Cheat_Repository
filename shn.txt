@@ -119,6 +119,7 @@ SLPM62602_01.00.shn=Yokushin - GigaWing Generations
 CUSA03603_01.05.shn=Dishonored 2
 CUSA46721_01.01.shn=Shadow of The Ninja Reborn
 CUSA41712_01.03.shn=Soulstice
+CUSA16724_01.06.shn=Resident Evil 3
 CUSA14123_01.07.shn=Resident Evil 3
 CUSA03679_01.04.shn=Mortal Kombat XL
 CUSA34388_05.01.shn=God of War Ragnarok (+Valhalla DLC compatibility)
